@@ -1,2 +1,7 @@
-# damn-vulnerable-defi
-defi挑战的课程讲解
+**A set of challenges to learn offensive security of smart contracts in Ethereum.**
+
+Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
+
+## Play
+
+Visit [damnvulnerabledefi.xyz](https://damnvulnerabledefi.xyz)
